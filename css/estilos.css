@@ -1,0 +1,75 @@
+body{
+    background-color: #C9E1EE;
+}
+#cabecera{
+    height: 115px;
+    background-color: #97D5F7;
+}
+#cabecera img{
+    width: 6%;
+}
+#nombrecabecera{
+    font-size: 2.5em;
+    color: rgba(173, 24, 44, 0.789);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+#menu-superior{
+    float: right;
+}
+#menu-superior ol{
+    list-style: none;
+}
+#menu-superior ol li{
+    display: inline-block;
+
+}
+#menu-superior ol li a{
+    color: blue;
+    font-size: 1.3em;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    padding: 20px;
+}
+#menu-superior ol li a:hover{
+    color: #08A5FC;
+    font-size: 1.8em;
+}
+.izquierda{
+   float: left; 
+   width: 43%;
+   padding: 10px;
+}
+.izquierda img{
+    width: 35%;
+    height: 35%;
+    padding: 25px;
+    border-radius: 20%;
+ }
+.derecha{
+    float: right;
+    width: 52%;
+    padding: 10px;
+}
+.derecha video{
+    ;
+    width: 40%;
+    padding: 15px;
+    border-radius: 15%;
+    
+}
+#titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.subtitulo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.imagensecundaria img{
+    float: right;
+    width: 5%;
+}
+
